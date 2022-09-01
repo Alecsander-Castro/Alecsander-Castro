@@ -1,8 +1,8 @@
 # <h1 align="center">Ola! Sou o Alecsander Castro🕹 </h1>
 
-- 📘 Atualmente estudando Back-End
-- 📚 Me aventurando no mundo do Front-End
+- 📚 Desenvolvedor Front-End
 - 🎮 Gamer
+- 🤘  Never Stop Learning!
 
 #
 <div align="center">
