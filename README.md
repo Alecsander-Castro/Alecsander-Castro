@@ -1,6 +1,6 @@
 # <h1 align="center">Ola! Sou o Alecsander Castro🕹 </h1>
 
-- 📚 Desenvolvedor Full Stack
+- 📚 Desenvolvedor Front-End
 - 🎮 Gamer
 - 🤘  Never Stop Learning!
 
